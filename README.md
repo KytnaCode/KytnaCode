@@ -1,8 +1,8 @@
 # Kytnacode
 
-# Who am I?
+## Who am I?
 
-I'm a 16-year-old student interested in cloud-native development and distributed systems.
+I'm a 16-year-old student interested in cloud-native development and scalable fault tolerant distributed systems.
 
 * Currently learning **Go**
 * Learning how to build high-performance concurrent systems.
