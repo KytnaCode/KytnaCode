@@ -2,10 +2,10 @@
 
 ## Who am I?
 
-I'm a 16-year-old student interested in cloud-native development and scalable fault tolerant distributed systems.
+I'm a 17-year-old student interested in cloud-native development and scalable fault tolerant distributed systems.
 
-* Currently learning **Go**
-* Learning how to build high-performance concurrent systems.
+* Currently learning **Go** and **Rust**.
+* Learning about high-performance concurrent fault-tolerant systems.
 * Interested on *P2P decentralized distributed systems*.
 * Envangelizing people to functional programming.
 * I'm fond of Linux, and I enjoy using it, I currently use **NixOS**, but I used to use **Arch Linux**.
